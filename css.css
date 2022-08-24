@@ -1,0 +1,126 @@
+
+header {
+    background: #BBBBBB;
+    padding: 20px 0;
+}
+
+.caixa {
+    width: 940px;
+    margin: 0 auto;
+    position: relative;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    font-size: 22px;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+nav a:hover{
+    text-decoration: underline;
+    color: #C78C19;
+}
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    margin: 25px auto;
+    width: 940px;
+
+}
+
+.principal h2{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.principal p {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.principal #missao {
+    font-size: 20px;
+}
+
+.principal em strong {
+    color: red;
+}
+
+.principal .bold {
+    font-weight: bold;
+}
+
+.beneficios .itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #DDDDDD;
+}
+
+.beneficiosCaixa {
+    width: 940px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.listaBeneficio {
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+    margin-top: 50px;
+}
+
+.imagemBeneficios {
+    width: 45%; 
+    margin: 20px auto;
+}
+
+.titulo-centralizado {
+    font-weight: bold;
+    padding-bottom: 10px;
+    font-size: 22px;
+}
+
+.itens {
+    padding: 5px 0;
+    font-size: 18px;
+}
+
+.rodape {
+    background: url("bg.jpg");
+    text-align: center;
+    padding: 20px 0;
+}
+
+.rodape p {
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+#contato {
+    width: 940px;
+    margin: 0 auto;
+}
+
+
